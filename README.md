@@ -51,7 +51,7 @@ finance-tracker/
 ## Getting Started
 1. **Clone & Install**
    ```bash
-   git clone https://github.com/<you>/finance-tracker.git
+   git clone https://github.com/calebcope/finance-tracker.git
    cd finance-tracker
    npm install --prefix client
    npm install --prefix server
