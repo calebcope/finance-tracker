@@ -96,7 +96,7 @@ Reference `.env.example` for the complete list. Key items:
 - [ ] Implement Prisma schema + migrations
 - [ ] Add auth controllers + session middleware
 - [ ] Ship transactions CRUD UI and analytics widgets
-- [ ] Integrate Plaid / CSV importers for real accounts
+- [ ] Integrate SimpleFin importers for real accounts
 - [ ] Harden production deployments (logging, tracing, alerts)
 
 ## Contributing
