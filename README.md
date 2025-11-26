@@ -90,8 +90,7 @@ Reference `.env.example` for the complete list. Key items:
 ## Documentation
 - [`docs/api.md`](docs/api.md) – endpoint contract + payloads
 - [`docs/architecture.md`](docs/architecture.md) – layered overview and deployment notes
-- [`docs/schema-diagram.png`](docs/schema-diagram.png) – placeholder ER diagram (update with your tooling)
-
+- 
 ## Roadmap
 - [ ] Implement Prisma schema + migrations
 - [ ] Add auth controllers + session middleware
